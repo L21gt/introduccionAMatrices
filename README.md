@@ -10,11 +10,11 @@ En esta tarea, se repasará y aplicarán los conceptos básicos de las operacion
 
 Primera parte. Operaciones con matrices  
 
-1. Se debe realizar los siguientes ejercicios con matrices:
-    1.1. Calcule A+B:
-    1.2. Calcule A+B:
-    1.3. Demuestre que (A + B) + C = A + (B + C):
-    1.4. Calcule A+B:
+1. Se debe realizar los siguientes ejercicios con matrices:  
+    1.1. Calcule A+B:  
+    1.2. Calcule A+B:  
+    1.3. Demuestre que (A + B) + C = A + (B + C):  
+    1.4. Calcule A+B:  
 
 RESULTADOS:  
     En las fotografias adjuntas podran encontrar la resolucion de las operaciones.
